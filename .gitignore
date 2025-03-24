@@ -1,0 +1,14 @@
+# Jetbrains IDE
+.idea/
+*.iml
+
+# Gradle
+.gradle/
+local.properties
+
+# Other
+.DS_Store
+/build
+/captures
+.externalNativeBuild
+.cxx

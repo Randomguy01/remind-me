@@ -1,0 +1,35 @@
+<resources>
+    <string name="app_name">Remind Me</string>
+
+    <!-- Global -->
+    <string name="dismiss">Dismiss</string>
+    <string name="add">Add</string>
+
+    <!-- Units -->
+    <plurals name="unit_second">
+        <item quantity="one">%1d second</item>
+        <item quantity="other">%1d seconds</item>
+    </plurals>
+    <plurals name="unit_minute">
+        <item quantity="one">%1d minute</item>
+        <item quantity="other">%1d minutes</item>
+    </plurals>
+    <plurals name="unit_hour">
+        <item quantity="one">%1d hour</item>
+        <item quantity="other">%1d hours</item>
+    </plurals>
+
+    <!-- Notification Channels -->
+    <string name="notificationChannel_reminder_name">Reminders</string>
+    <string name="notificationChannel_reminder_description">Reminders for the app</string>
+
+    <!-- HomeScreen -->
+    <string name="homeScreen_header_noReminders">No reminders</string>
+
+    <!-- AddReminderDialog -->
+    <string name="addReminder_header_title">New Reminder</string>
+    <string name="addReminder_label_title">Title*</string>
+    <string name="addReminder_supportingText_title">Title cannot be empty</string>"
+    <string name="addReminder_label_description">Description</string>
+    <string name="addReminder_text_reminderTime">Reminder Time*</string>"
+</resources>
